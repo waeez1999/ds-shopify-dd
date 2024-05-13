@@ -50,3 +50,47 @@
   },
 });
 </script>
+
+
+
+{% schema %}
+    {
+      "name": "Home Main Slider",
+      "tag": "section",
+      "class": "section",
+      "disabled_on": {
+        "groups": ["header", "footer"]
+      },
+      "settings": [
+        {
+          "type": "select",
+          "id": "layout",
+          "options": [
+            {
+              "value": "full_bleed",
+              "label": "t:sections.slideshow.settings.layout.options__1.label"
+            },
+            {
+              "value": "grid",
+              "label": "t:sections.slideshow.settings.layout.options__2.label"
+            }
+          ],
+          "default": "full_bleed",
+          "label": "t:sections.slideshow.settings.layout.label"
+        }
+      ],
+      "presets": [
+        {
+          "name": "Home Slide",
+          "blocks": [
+            {
+              "type": "slide"
+            },
+            {
+              "type": "slide"
+            }
+          ]
+        }
+      ]
+    }
+    {% endschema %}
