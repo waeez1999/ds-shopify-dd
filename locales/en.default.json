@@ -518,5 +518,12 @@
       "send_on": "YYYY-MM-DD",
       "send_on_label": "Send on (optional)"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "shipping": {
+        "invalid_shipping_method_summary": "Shipping will be calculated manullay"
+      }
+    }
   }
 }
