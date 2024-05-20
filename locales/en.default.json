@@ -534,6 +534,9 @@
       },
       "delivery_options": {
         "free_total_label": "sdasdas"
+      },
+      "order_summary": {
+        "free_shipping_discount_label": "hello"
       }
     }
   }
