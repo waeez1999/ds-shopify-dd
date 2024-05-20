@@ -522,7 +522,8 @@
   "shopify": {
     "checkout": {
       "shipping": {
-        "invalid_shipping_method_summary": "Shipping will be calculated manullay"
+        "invalid_shipping_method_summary": "SHIPPING AND HANDLING CHARGES WILL BE APPLIED WHEN YOUR ORDER IS FULFILLED.",
+        "shipping_method_title": "Shipping Methods"
       }
     }
   }
