@@ -526,7 +526,8 @@
         "shipping_method_title": "Shipping Methodsss",
         "method_summary": {
           "incomplete_address_entered": "SHIPPING AND HANDLING CHARGES WILL BE APPLIED WHEN YOUR ORDER IS FULFILLED."
-        }
+        },
+        "different_shipping_method_summary": "SHIPPING AND HANDLING CHARGES WILL BE APPLIED WHEN YOUR ORDER IS FULFILLED."
       }
     }
   }
