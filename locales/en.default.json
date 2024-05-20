@@ -531,6 +531,9 @@
       },
       "shipping_errors": {
         "empty_state": "SHIPPING AND HANDLING CHARGES WILL BE APPLIED WHEN YOUR ORDER IS FULFILLED."
+      },
+      "delivery_options": {
+        "free_total_label": "sdasdas"
       }
     }
   }
