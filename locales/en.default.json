@@ -538,7 +538,7 @@
       },
       "order_summary": {
         "free_shipping_discount_label": "hello",
-        "free_total_label": "Hello 3"
+        "free_total_label": "Applied after order completed"
       },
       "payment_summary": {
         "free_label": "Hello 4"
